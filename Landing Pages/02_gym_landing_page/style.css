@@ -99,3 +99,18 @@ body {
     width: 60%;
     margin: 15px auto;
 }
+#gender{
+    text-align: center;
+    display: flex;
+    width: 282px;
+    padding: 9px;
+    border: 2px solid black;
+    margin: 10px auto;
+    border-radius: 10px;
+    font-size: 14px;
+    background: white;
+    color: gray;
+    align-items: center;
+    justify-content: center;
+
+}
